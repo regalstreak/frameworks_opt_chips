@@ -26,9 +26,9 @@
         <item name="android:textDirection" tools:ignore="NewApi">locale</item>
     </style>
 
-    <style name="RecipientEditTextView" parent="@style/RecipientEditTextViewBase">
+    <!-- <style name="RecipientEditTextView" parent="@style/RecipientEditTextViewBase">
         <item name="android:imeOptions">actionNext|flagNoFullscreen</item>
-    </style>
+    </style> -->
 
     <style name="ChipAutocompleteWrapperStyle">
         <item name="android:paddingLeft">@dimen/chip_wrapper_start_padding</item>
@@ -122,9 +122,9 @@
         <item name="android:paddingBottom">10dp</item>
     </style>
 
-    <style name="ChipDeleteIconStyle" parent="@style/ChipDeleteIconBaseStyle">
+    <!-- <style name="ChipDeleteIconStyle" parent="@style/ChipDeleteIconBaseStyle">
         <item name="android:paddingLeft">@dimen/chip_icon_padding</item>
-    </style>
+    </style> -->
 
     <style name="ChipPermissionDismissIconStyle">
         <item name="android:id">@android:id/icon2</item>
